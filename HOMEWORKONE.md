@@ -16,6 +16,7 @@ Here is the link to my [messy-project-directory](https://github.com/kln918/tfcb-
 Here is the link to my [READ.md](https://github.com/kln918/git/blob/master/README.md).
 
 ## Problem 6 Response: 
-Here is the link to my [survey_data.csv](https://github.com/kln918/git/blob/master/survey_data.csv).
+Here is the link to my [survey_data.csv](https://github.com/kln918/survery_data-tidy/blob/master/survey_data.csv).
 
 ## End of Homework 1
+
